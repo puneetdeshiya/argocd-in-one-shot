@@ -18,7 +18,7 @@ This repository is organized into chapters, each with hands-on examples, manifes
 ### [02_argocd_basics](./02_argocd_basics/)
 * Learn ArgoCD basics, architecture, and key concepts
 * Covers core components and how ArgoCD fits into GitOps
-
+--------------
 
 ### [03_setup_installation](./03_setup_installation/)
 * Step-by-step guide to setting up and installing ArgoCD
